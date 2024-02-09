@@ -37,7 +37,7 @@
 1. Ensure you have Python installed on your system.
 2. Clone this repository.
 3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run `task1.py` and `task2.py` to execute the respective tasks.
+4. Run `data_eval_reg_model_analysis.ipynb` and `math_opt_obj_func.ipynb` to execute the respective tasks.
 
 
 ---
